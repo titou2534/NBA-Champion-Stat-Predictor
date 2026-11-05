@@ -1,0 +1,4 @@
+# Raw Basketball-Reference pages (17 MB, third-party content) - regenerate with the download step in README
+raw/
+__pycache__/
+.DS_Store
